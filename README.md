@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduSurf
-- 👀 I’m interested in Remote work
-- 🌱 I’m currently learning Spring Framework
+- 👀 I’m interested in low platform technologies, Data Science, Machine Learning and AI
+- 🌱 I’m currently learning Spring Framework, Bootstrap, Python Pandas and French
 - 💞️ I’m looking to collaborate on voluntary coding teaching for poor children
 - 📫 How to reach me https://www.linkedin.com/in/jose-finardi/
 
